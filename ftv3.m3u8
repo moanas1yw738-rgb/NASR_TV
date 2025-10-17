@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=1920x1080
+https://cdnfest.com/ftv3-1080p/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://cdnfest.com/ftv3-720p/tracks-v1a1/mono.m3u8
